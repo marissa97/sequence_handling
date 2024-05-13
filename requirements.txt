@@ -1,0 +1,16 @@
+biopython==1.83
+cutadapt==4.8
+dnaio==1.2.0
+isal==1.6.1
+Levenshtein==0.25.1
+numpy==1.26.4
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+rapidfuzz==3.9.0
+seqtk==0.5.0
+six==1.16.0
+tqdm==4.66.4
+tzdata==2024.1
+xopen==2.0.1
+zlib-ng==0.4.3
