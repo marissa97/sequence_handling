@@ -4,12 +4,9 @@ create, update and filtering fastq database
 ### Operating system: Linux 
 
 ### External Tools:  
-
-    - [Cutadapt](https://cutadapt.readthedocs.io/en/stable/): for trimming 
-
-    - [NGmerge](https://github.com/jsh58/NGmerge): for merging 
-
-    - [Seqtk](https://github.com/lh3/seqtk): for filtering based on min_amplicon_length 
+- [Cutadapt](https://cutadapt.readthedocs.io/en/stable/): for trimming 
+- [NGmerge](https://github.com/jsh58/NGmerge): for merging 
+- [Seqtk](https://github.com/lh3/seqtk): for filtering based on min_amplicon_length 
 
 ### Database: [sqlite3](https://www.sqlite.org/index.html) 
 
@@ -36,7 +33,7 @@ create, update and filtering fastq database
 
 8. Install python packages: ``` pip install –r requirements.txt  ``` 
      
-Test Data: [Onedrive](https://pages.github.com/](https://1drv.ms/f/c/33A4E3C9AE76E077/Erj5omHYGUhIsYYfL1u20n4Bp7eXtejy3jaN2rUlngI8Tg?e=Xa3VAa).
+Test Data: [Onedrive](https://1drv.ms/f/c/33A4E3C9AE76E077/Erj5omHYGUhIsYYfL1u20n4Bp7eXtejy3jaN2rUlngI8Tg?e=Xa3VAa).
 Gained from: https://www.applied-maths.com/download/fastq-files  
      
 ## Running Test Data 
