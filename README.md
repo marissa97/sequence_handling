@@ -23,15 +23,15 @@ create, update and filtering fastq database
 ** important: adjust path to NGmerge in utils.py**  
      
 
-4. Download sqlite3 version 3.41.2  
+4. Install [sqlite3 version 3.41.2](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-sqlite-on-ubuntu-20-04)
      
-5. Create python env is necessary: ``` python -m venv <env_name> ``` 
+6. Create python env is necessary: ``` python -m venv <env_name> ``` 
 
-6. Activate env: ```  source <env_name>/bin/activate ``` 
+7. Activate env: ```  source <env_name>/bin/activate ``` 
 
-7. Go to project directory 
+8. Go to project directory 
 
-8. Install python packages: ``` pip install –r requirements.txt  ``` 
+9. Install python packages: ``` pip install –r requirements.txt  ``` 
      
 Test Data: [Onedrive](https://1drv.ms/f/c/33A4E3C9AE76E077/Erj5omHYGUhIsYYfL1u20n4Bp7eXtejy3jaN2rUlngI8Tg?e=Xa3VAa).
 Gained from: https://www.applied-maths.com/download/fastq-files  
